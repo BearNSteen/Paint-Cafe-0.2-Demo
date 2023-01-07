@@ -1,5 +1,5 @@
 # Paint Cafe 0.2 Demo
- The second demo for Paint Cafe, now featuring art by @RisibleZombie
+ The second demo for Paint Cafe, now featuring art by @RisibleZombie !  
  Note that this project is from 2020. I have since graduated with my degree and can contribute far more advanced features in 0.3.
 
 ![Screenshot](https://github.com/Monduli/Paint_Cafe_0.1_Demo/blob/main/paintcafe.gif?raw=true)
